@@ -70,6 +70,5 @@ function gotResults(error, result){
     }
     if(result[0].label === "up"){
         bird.up();
-        bird.up();
     }
 }
